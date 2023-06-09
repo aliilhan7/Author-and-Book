@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PeYFIjpuo6q+RvnydCY/oX5ZRAuFIESf3pjXhGcoR7n0vLbAE5jgqew8LjK3Wp7lim2purGWoTTjb7TiNmaDYA==",
+  "dgSpecHash": "MjPU5jw/x79Etzgyyzp2yMQamfcvgBBq0U8rqfKQvdzUcNDteb1u24WJdkO3UdYONpi0upF6C5h1oQ9HB2SnVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muham\\Desktop\\C# Projects\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
+  "projectFilePath": "C:\\Users\\muham\\Source\\Repos\\Author-and-Book\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muham\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\muham\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

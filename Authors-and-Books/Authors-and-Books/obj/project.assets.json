@@ -3515,11 +3515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\Desktop\\C# Projects\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\Source\\Repos\\Author-and-Book\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
       "projectName": "Authors-and-Books",
-      "projectPath": "C:\\Users\\muham\\Desktop\\C# Projects\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
+      "projectPath": "C:\\Users\\muham\\Source\\Repos\\Author-and-Book\\Authors-and-Books\\Authors-and-Books\\Authors-and-Books.csproj",
       "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\Desktop\\C# Projects\\Authors-and-Books\\Authors-and-Books\\obj\\",
+      "outputPath": "C:\\Users\\muham\\Source\\Repos\\Author-and-Book\\Authors-and-Books\\Authors-and-Books\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",

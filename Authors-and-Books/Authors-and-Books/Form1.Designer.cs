@@ -102,6 +102,7 @@
             btnList.TabIndex = 6;
             btnList.Text = "List";
             btnList.UseVisualStyleBackColor = true;
+            btnList.Click += btnList_Click;
             // 
             // btnAdd
             // 
@@ -111,6 +112,7 @@
             btnAdd.TabIndex = 7;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnUpdate
             // 
@@ -120,6 +122,7 @@
             btnUpdate.TabIndex = 8;
             btnUpdate.Text = "Update";
             btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 
@@ -129,6 +132,7 @@
             btnDelete.TabIndex = 9;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // gbxAdmin
             // 
